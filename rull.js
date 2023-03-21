@@ -36,30 +36,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/khoirul36_'
+global.sig = 'https://instagram.com/khathehard'
 global.tautanwa = 'https://wa.me/message/'
-global.sgh = 'https://github.com/khrlmstfa' //github
+global.sgh = 'https://github.com/KhaaTheInvisble' //github
 global.sgc = '' //group whatsapp
 global.sdc = '-' //discord
 global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
-global.sfb = 'https://www.facebook.com/' // facebook
+global.sfb = 'https://www.facebook.com/Raka putra ramadhan' // facebook
 global.snh = 'https://chat.whatsapp.com/'
 global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 global.wame = 'https://wa.me/message/'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['62882006212045', 'Zxura ©', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
+global.nomorbot = '1(626)8894037' //pasang no bot lo 
+global.nomorown = '62882006212045' //pasang no own lo
 global.nomorown1 = ''
 global.nomorown2 = ''
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
+global.nameown = 'Zxura'
 global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
+global.author = 'Dibuat Oleh Zxura'
 global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
 global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
 
@@ -89,19 +89,19 @@ HIRO
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= ' ꩜'
-global.nameown2 = '  ꩜'
+global.nameown1= 'Zxura ꩜'
+global.nameown2 = 'Razell ꩜'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝕽𝖚𝖑𝖑'
+global.wm = '© Created By Zxura'
 global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname = wm
-global.watermark = wm
-global.titlebot = namebot
+global.packname = 777-Zxura
+global.watermark = Zxura Esempe
+global.titlebot = Bot Esempe
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -128,12 +128,12 @@ global.lynk = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '' //pasang no lo sinih buat donasi 
+global.pdana = '0882006212045' //pasang no lo sinih buat donasi 
 global.povo = '-' 
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = ''
-global.ppulsa2 = ''
+global.ppulsa = '0882006212045'
+global.ppulsa2 = '0882006212045'
 global.psaweria = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -366,7 +366,7 @@ global.logo = 'https://telegra.ph/file/27accc6de818f8bd2eda8.jpg'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/khoirul36_"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62xxxx' //nowa mu
+global.phn = '62882006212045' //nowa mu
 
 global.thumbdoc = 'https://telegra.ph/file/896867949807ddbecbe81.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
