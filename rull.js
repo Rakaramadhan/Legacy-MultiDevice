@@ -99,9 +99,9 @@ global.nameown2 = 'Razell ꩜'
 global.readMore = readMore
 global.wm = '© Created By Zxura'
 global.wm2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname = 777-Zxura
-global.watermark = Zxura Esempe
-global.titlebot = Bot Esempe
+global.packname = '777-Zxura'
+global.watermark = 'Zxura Esempe'
+global.titlebot = 'Bot Esempe'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
